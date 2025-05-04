@@ -1,1 +1,1 @@
-bus regervation
+bus reservation 
